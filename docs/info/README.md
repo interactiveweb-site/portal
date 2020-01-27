@@ -5,9 +5,8 @@ sidebar: auto
 
 # About this Class
 
-## Core Studio
 
-#### [Download <b>Studio</b> Syllabus](https://docs.google.com/document/d/19r4TFPZk0SiINU8z_tBLcarAfXAp2brH6zqW2MWMgp0/edit?usp=sharing)
+#### [Download Syllabus](https://docs.google.com/document/d/19r4TFPZk0SiINU8z_tBLcarAfXAp2brH6zqW2MWMgp0/edit?usp=sharing)
 
 ### Course Description
 
