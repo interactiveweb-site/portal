@@ -17,7 +17,7 @@ Welcome!
 
 [What did I sign up for? →](./info/)
 
-## Weekly Agendas & Homework :woman_technologist: :man_technologist:
+## Weekly Agendas & Homework 
 
 ::: tip Pro Tip
 These will unlock at the beginning of each week. You should make a habbit of reviewing the upcoming week's agenda in advance.
@@ -26,9 +26,9 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 ### [Week 1](./agendas/week-1)
 
 ### [Week 2](./agendas/week-2-disabled)
-
-### [Week 3](./agendas/week-3-disabled)
 <!--
+### [Week 3](./agendas/week-3-disabled)
+
 ### [Week 4](./agendas/week-4-disabled)
 
 ### [Week 5](./agendas/week-5-disabled)
@@ -70,6 +70,5 @@ Student {{ i }} Name
 
 ---
 
-This site is used for the Parsons School of Design Core Interaction course as part of the Communication Design BFA curriculum. Spring 2020.
+This site is used for the Hunter College Web Production I course for the spring 2020.
 
-[Code Repo](https://github.com/AndrewLevinson/core-interaction-spring-2020) | Submit a pull request if you find a mistake! :computer:
