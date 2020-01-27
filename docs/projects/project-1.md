@@ -18,7 +18,7 @@ We will collect all the website in a giant online garden. Come to class prepared
 ### Schedule
 
 <b> 02/01 </b>
-— Introduction of the exercises
+— Intro
 
 <b> 02/08 </b>
 — Only use HTML (no CSS of any kind). In addition to the required html, head, title, and body elements, you can use any of the following HTML elements: <br>
