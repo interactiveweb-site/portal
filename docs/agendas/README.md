@@ -4,7 +4,7 @@ title: Weekly Agenda
 
 # Weekly Agenda
 
-### Here you'll find the weekly agenda for both Studio and Lab sections. These are also listed on the course [homepage](/) for convenience
+### Here you'll find the weekly agenda. These are also listed on the course [homepage](/) for convenience
 
 ::: tip Pro Tip
 This will unlock the week prior. You should make a weekly habbit of reviewing the upcoming week's agenda in advance.
@@ -12,7 +12,7 @@ This will unlock the week prior. You should make a weekly habbit of reviewing th
 
 ## [Week 1](./week-1)
 
-## [Week 2](./week-2)
+## [Week 2](./week-2-disabled)
 
 ## [Week 3](./week-3-disabled)
 

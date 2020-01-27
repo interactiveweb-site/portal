@@ -11,9 +11,9 @@ pageClass: home-page
 
 <br><br><br>
 
-# Welcome to Core Interaction :wave:
+# Welcome to Web Production I :wave:
 
-Howdy! This will be your main resource for the Studio and Lab Sections K Spring 2020
+Welcome! 
 
 [What did I sign up for? →](./info/)
 
@@ -25,7 +25,7 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Week 1](./agendas/week-1)
 
-### [Week 2](./agendas/week-2)
+### [Week 2](./agendas/week-2-disabled)
 
 ### [Week 3](./agendas/week-3-disabled)
 <!--
