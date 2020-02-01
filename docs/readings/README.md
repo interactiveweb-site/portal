@@ -1,4 +1,3 @@
-x---
 title: Readings
 sidebar: auto
 ---
