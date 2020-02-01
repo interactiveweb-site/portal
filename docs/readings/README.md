@@ -12,5 +12,5 @@ By Fridays at 11.59pm submit a question regarding the reading using the arena ch
 
 #### 02/08
 
-1. Laurel Schwulst, My website is a shifting house next to a river of knowledge. What could yours be?  [Download](.https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
+1. Laurel Schwulst, My website is a shifting house next to a river of knowledge. What could yours be?  [Download](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 2. Things a story of the sixties, Georges Perec [Here](https://issuu.com/de_repente/docs/things__a_story_of_the_sixties__a_m)
