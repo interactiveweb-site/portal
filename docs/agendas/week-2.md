@@ -19,7 +19,9 @@ sidebar: auto
 
 ### Homework
 
-- Index.html 'It's Alive' first level excersises
+- Index.html 'It's Alive' first level excersises: Only use HTML (no CSS of any kind). In addition to the required html, head, title, and body elements, you can use any of the following HTML elements:
+p, div, br
+- Have your page ready to review in class
 - create an are.na account
 - Submit one (1) reading question using are.na
 

@@ -7,7 +7,7 @@ sidebar: auto
 
 ## Week 1
 
-[Studio Slides]()
+[Studio Slides](https://docs.google.com/presentation/d/1499gMhnoxNfWHv3MIhNGaiPH1arGGPHk3b_AvoSpSjw/edit?usp=sharing)
 
 
 ## Week 2
