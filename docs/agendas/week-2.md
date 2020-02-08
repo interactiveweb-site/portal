@@ -5,7 +5,6 @@ sidebar: auto
 
 # Week 2 Agenda
 
-## Studio
 
 ### Saturday, 02/08
 

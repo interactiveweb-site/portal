@@ -15,3 +15,8 @@ By Fridays at 11.59pm submit a question regarding the reading using the arena ch
 
 1. Laurel Schwulst, My website is a shifting house next to a river of knowledge. What could yours be?  [Download](https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/)
 2. Things a story of the sixties, Georges Perec [Here](https://issuu.com/de_repente/docs/things__a_story_of_the_sixties__a_m)
+
+#### 02/15
+
+1. Frank Chimero, what a screen wants [Here](https://frankchimero.com/writing/what-screens-want/)
+2. Orit Gat, Unbound, The Politics of Scanning [Here](https://rhizome.org/editorial/2014/oct/9/unbound-politics-scanning/)
