@@ -12,6 +12,6 @@ sidebar: auto
 
 ## Week 2
 
-[Studio Slides](./-disabled)
+[Studio Slides](https://docs.google.com/presentation/d/1mCpMCjIscqx2HV6Lsu7MXcwOnhA96WCnCNXLdyP3PHA/edit?usp=sharing)
 
 
