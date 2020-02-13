@@ -3,10 +3,10 @@ title: Week 3 Agenda
 sidebar: auto
 ---
 
-# Week 2 Agenda
+# Week 3 Agenda
 
 
-### Saturday, 02/08
+### Saturday, 02/14
 
 - History of the web
 - Art, Design and the internet
