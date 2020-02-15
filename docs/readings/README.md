@@ -22,3 +22,10 @@ By Fridays at 11.59pm submit a question regarding the reading using the arena ch
 
 1. Frank Chimero, what a screen wants [Here](https://frankchimero.com/writing/what-screens-want/)
 2. Orit Gat, Unbound, The Politics of Scanning [Here](https://rhizome.org/editorial/2014/oct/9/unbound-politics-scanning/)
+
+## Week 4
+
+#### 02/22
+
+1. By Design, Alice Rawsthorn [Here](https://www.are.na/block/6182173)
+2. Keller Easterling, An Internet of Things [Here](https://www.e-flux.com/journal/31/68189/an-internet-of-things/)
