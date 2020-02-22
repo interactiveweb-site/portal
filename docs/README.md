@@ -29,10 +29,10 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Week 3](./agendas/week-3) 
 
-### [Week 4](./agendas/week-4) <span class="current">current</span>
-<!--
+### [Week 4](./agendas/week-4) 
 
-### [Week 5](./agendas/week-5-disabled)
+### [Week 5](./agendas/week-5) <span class="current">current</span>
+<!--
 
 ### [Week 6](./agendas/week-6-disabled)
 

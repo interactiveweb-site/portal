@@ -29,3 +29,9 @@ By Fridays at 11.59pm submit a question regarding the reading using the arena ch
 
 1. By Design, Alice Rawsthorn [Here](https://www.are.na/block/6182173)
 2. Keller Easterling, An Internet of Things [Here](https://www.e-flux.com/journal/31/68189/an-internet-of-things/)
+
+## Week 5
+
+#### 02/29
+
+NO READING BUT PLEASE WORK ON YOUR WEBSITES AND GITHUB

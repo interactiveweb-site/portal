@@ -20,3 +20,9 @@ sidebar: auto
 
 [Studio Slides](https://docs.google.com/presentation/d/1Vl83tt6tEDpG8jMJWysJVd7TLm56wXkNEdhLthJYfl0/edit?usp=sharing)
 
+
+## Week 04
+
+
+[Studio Slides](https://docs.google.com/presentation/d/1Bw_wcvn4ytLXfqNmHG23sw7wpB1EtGtEHA-UJEKf3LU/edit?usp=sharing)
+
