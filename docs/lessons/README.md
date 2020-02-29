@@ -26,3 +26,6 @@ sidebar: auto
 
 [Studio Slides](https://docs.google.com/presentation/d/1Bw_wcvn4ytLXfqNmHG23sw7wpB1EtGtEHA-UJEKf3LU/edit?usp=sharing)
 
+## Week 05
+
+[Studio Slides](https://docs.google.com/presentation/d/1NgKFcFYfN7PNw6XpbL6V9qu1-Q6Ko5PXrRScV8G0AaI/edit?usp=sharing)
