@@ -35,3 +35,9 @@ By Fridays at 11.59pm submit a question regarding the reading using the arena ch
 #### 02/29
 
 NO READING BUT PLEASE WORK ON YOUR WEBSITES AND GITHUB
+
+## Week 6
+
+#### 03/07
+
+NO READING BUT PLEASE WORK ON YOUR WEBSITES AND GITHUB
