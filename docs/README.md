@@ -56,12 +56,6 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 <br><br>
 
-## Student Github Sites
-
-::: warning Keep these sites up to date.
-Each student will maintain a Github pages website. Your homework must be uploaded to your github pages site prior to the class it is due
-:::
-
 <div v-for="i in 16">
 
 ### [Maisa](link_profile)
