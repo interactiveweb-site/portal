@@ -24,7 +24,7 @@ This will unlock the week prior. You should make a weekly habbit of reviewing th
 
 ## [Week 7](./week-7-disabled)
 
-## [Week 8](./week-8-disabled)
+## [Week 8](./week-8)
 
 ## [Week 9](./week-9-disabled)
 
