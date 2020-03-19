@@ -56,7 +56,7 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 <br><br>
 
-<div v-for="i in 16">
+<div v-for="i in 1">
 
 ### [Maisa](link_profile)
 
