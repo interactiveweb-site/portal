@@ -10,7 +10,7 @@ Create a 1 page experience website that is adaptable for different mediums and s
 April 18 
 Critique Day
 
-### Schedule
+### Schedule 
 
 <b> March 21 </b> </br>
 Introduction and developing concept
