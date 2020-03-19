@@ -33,13 +33,13 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Week 5](./agendas/week-5)
 
-### [Week 6](./agendas/week-6)  <span class="current">current</span>
+### [Week 6](./agendas/week-6) 
+
+
+### [Week 7](./agendas/week-7-disabled) [NO CLASS]
+
+### [Week 8](./agendas/week-8-disabled)  <span class="current">current</span>
 <!--
-
-### [Week 7](./agendas/week-7-disabled)
-
-### [Week 8](./agendas/week-8-disabled)
-
 ### [Week 9](./agendas/week-9-disabled)
 
 ### [Week 10](./agendas/week-10-disabled)
@@ -62,10 +62,71 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 Each student will maintain a Github pages website. Your homework must be uploaded to your github pages site prior to the class it is due
 :::
 
-<div v-for="i in 15">
-Student {{ i }} Name
+<div v-for="i in 16">
 
-[Site Link](./disabled)
+### [Maisa](link_profile)
+
+[https://maisa-ah.github.io/medp285/](https://maisa-ah.github.io/medp285/)
+
+### [Sarah](link_profile)
+
+[https://sbegum4.github.io/medp285/.](https://sbegum4.github.io/medp285/.)
+
+### [Aaron](link_profile)
+
+[https://webset57.github.io/Webset/](https://webset57.github.io/Webset/)
+
+### [Kimberlee](link_profile)
+
+[https://kimberleejinnis.github.io/WebProduction1/homepage.html](https://kimberleejinnis.github.io/WebProduction1/homepage.html)
+
+### [Shirley](link_profile)
+
+[https://shirleyrecreates.github.io/Shirleyrecreates/](https://shirleyrecreates.github.io/Shirleyrecreates/)
+
+### [Jaime](link_profile)
+
+[https://kingjnf.github.io/JaimeNunez/](https://kingjnf.github.io/JaimeNunez/)
+
+### [Jessica](link_profile)
+
+[https://jess108.github.io/Web-Production-01/](https://jess108.github.io/Web-Production-01/)
+
+### [Joseph](link_profile)
+
+[lhttps://ju371.github.io/JosephUrbina_Medp285/.](https://ju371.github.io/JosephUrbina_Medp285/.)
+
+### [Joshebel](link_profile)
+
+[https://joshemma.github.io/Class-site/](https://joshemma.github.io/Class-site/)
+
+### [Claudette](link_profile)
+
+[https://rcrxvi.github.io/medp250/](https://rcrxvi.github.io/medp250/)
+
+### [Sayra](link_profile)
+
+[https://sayrajsolis.github.io/MEDP285/](https://sayrajsolis.github.io/MEDP285/)
+
+### [Mery](link_profile)
+
+[https://msuarez45.github.io/medp285-website/](https://msuarez45.github.io/medp285-website/)
+
+### [Krysta-Angelique](link_profile)
+
+[https://kgwilliam92.github.io/k.g-willams/](https://kgwilliam92.github.io/k.g-willams/)
+
+### [Kaitlyn](link_profile)
+
+[https://kyates99.github.io/web1/](https://kyates99.github.io/web1/)
+
+### [Jason](link_profile)
+
+[https://jasonzhao55.github.io/Web1/](https://jasonzhao55.github.io/Web1/)
+
+### [Allen](link_profile)
+
+[https://azhuhunter.github.io/Webp1/](https://azhuhunter.github.io/Webp1/)
 
 </div>
 
