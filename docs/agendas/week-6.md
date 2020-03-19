@@ -1,5 +1,5 @@
 ---
-title: Week 5 Agenda
+title: Week 6 Agenda
 sidebar: auto
 ---
 
