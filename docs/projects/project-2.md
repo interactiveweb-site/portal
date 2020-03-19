@@ -2,12 +2,23 @@
 title: Project 2
 ---
 
-# Archive!
+# S, M, L, XL
 
-- project details
-
-### Description
+Create a 1 page experience website that is adaptable for different mediums and screens. The website should be adaptable for 2 different sizes (laptop and mobile phone). The website should be a generative poem, that changes its form and layout from laptop to mobile phone.
 
 ### Due Date(s)
+April 18 
+Critique Day
 
-### Skills
+### Schedule
+
+<b> March 21 </b> </br>
+Introduction and developing concept
+
+<b>March 29 </b> </br>
+HTML + CSS page laptop
+
+<b> April 4</b> </br>
+HTML + CSS page mobile phone
+
+
