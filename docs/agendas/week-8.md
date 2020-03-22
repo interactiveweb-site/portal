@@ -1,12 +1,12 @@
 ---
-title: Week 5 Agenda
+title: Week 8 Agenda
 sidebar: auto
 ---
 
-# Week 6 Agenda
+# Week 8 Agenda
 
 
-### Saturday, 03/021
+### Saturday, 03/21
 
 CRITIQUE DAY
 
