@@ -29,3 +29,7 @@ sidebar: auto
 ## Week 05
 
 [Studio Slides](https://docs.google.com/presentation/d/1NgKFcFYfN7PNw6XpbL6V9qu1-Q6Ko5PXrRScV8G0AaI/edit?usp=sharing)
+
+## Week 09
+
+[Studio Slides](https://docs.google.com/presentation/d/1XFjtdEydgugIPPIACVAzbgwPOfIgWgigrQsY1ZQjBPU/edit#slide=id.p)
