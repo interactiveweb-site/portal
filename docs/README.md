@@ -40,7 +40,7 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Week 8](./agendas/week-8 ) 
 
-### [Week 9](./agendas/week-9) <span class="current">current</span>
+### [Week 9](./agendas/week-9) [Volunteer Class] <span class="current">current</span>
 <!--
 ### [Week 10](./agendas/week-10-disabled)
 
@@ -64,7 +64,7 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Sarah](link_profile)
 
-[https://sbegum4.github.io/medp285/.](https://sbegum4.github.io/medp285/.)
+[https://sbegum4.github.io/medp-285/](https://sbegum4.github.io/medp-285/)
 
 ### [Aaron](link_profile)
 
