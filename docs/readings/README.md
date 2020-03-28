@@ -42,6 +42,11 @@ NO READING BUT PLEASE WORK ON YOUR WEBSITES AND GITHUB
 
 NO READING BUT PLEASE WORK ON YOUR WEBSITES AND GITHUB
 
-## Week 7-8
+## Week 7-8-9
 
 NO READING BUT PLEASE WORK ON YOUR WEBSITE AND GITHUB
+
+## Week 10
+
+1. Paul Ford, What is Code [here](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+2. Benjamin H. Bratton, The Black Stack [here](https://www.e-flux.com/journal/53/59883/the-black-stack/)
