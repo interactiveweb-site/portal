@@ -42,11 +42,11 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 
 ### [Week 9](./agendas/week-9) [Volunteer Class] 
 
-### [Week 10](./agendas/week-10)<span class="current">current</span>
+### [Week 10](./agendas/week-10)
+
+
+### [Week 11](./agendas/week-11-disabled)[Respecting Religious Holiday]  <span class="current">current</span>
 <!--
-
-### [Week 11](./agendas/week-11-disabled)
-
 ### [Week 12](./agendas/week-12-disabled)
 
 ### [Week 13](./agendas/week-13-disabled)
