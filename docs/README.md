@@ -45,7 +45,7 @@ These will unlock at the beginning of each week. You should make a habbit of rev
 ### [Week 10](./agendas/week-10)
 
 
-### [Week 11](./agendas/week-11-disabled)[Respecting Religious Holiday]  <span class="current">current</span>
+### [Week 11](./agendas/week-11) [Respecting Religious Holiday]  <span class="current">current</span>
 <!--
 ### [Week 12](./agendas/week-12-disabled)
 
